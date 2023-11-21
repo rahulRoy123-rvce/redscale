@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={redscale_logo} className="" alt="logo" />
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p>
+        <p className='text-2xl'>
           Stay Tuned!
         </p>
         <a
